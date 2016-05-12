@@ -1,6 +1,6 @@
 [INCLUDE=presentation]
-Title         : 找工作的一些建议 
-Sub Title     : In both HTML and PDF
+Title         : How to get a job at Google
+Sub Title     : some personal suggestions
 Author        : 左 遥
 Affiliation   : 中科院计算所
 Email         : laike9m@gmail.com
@@ -10,13 +10,15 @@ Reveal Theme  : sky
 
 # Content
 
+[TOC]
+
 # What's not included
 * 简历怎么写
 * 各公司面试风格比较
 * 刷题
 * 面过的题
 
-# getting a job is hard
+# Getting a Job Is Hard
 ~ Center
 especially for **Google**
 ~
@@ -24,7 +26,7 @@ especially for **Google**
 首先要说的是，不要因为被Google拒绝而影响其它面试
 ~
 
-# ANd it's getting harder...
+# And It's Getting Harder...
 * {.fragment} 美国总部从海外招人减少（h1b or headcount）
 * {.fragment} 中国大陆招人减少
 * {.fragment} 筛选更加严格
@@ -43,14 +45,14 @@ especially for **Google**
 
 [Screen Shot 2016-05-12 at 3.51.21 PM]: images/Screen-Shot-2016-05-12-at-3.51.21-PM.png "Screen Shot 2016-05-12 at 3.51.21 PM" { width:auto; max-width:90% }
 
-# phone interview 
+# Phone nterview 
 * 不要作弊
 * 可以准备资料
 * VPN
 * 电话信号
 * 安静环境
 
-# phone interview
+# Phone Interview
 ~ Center
 **沟通！**
 ~
@@ -58,12 +60,12 @@ especially for **Google**
 电面一般是中文。当天就能知道结果。
 ~
 
-# on-site interview
+# On-site Interview
 * Mac
 * Google Doc
 * 提供纸笔
 
-# On-site interview
+# On-site Interview
 * 沟通
 * Think quick
 * 不要怕说错
@@ -72,11 +74,11 @@ Google的题基本都是你没见过的，一定要先搞清楚题意！问清�
 把面试官当作同事，而不是敌人。
 ~
 
-# Team match(?)
+# Team Match(?)
 * 不一定有
 * 聊天，互相了解
 
-# programming languages
+# Programming Languages
 ~ Center
 C++/Java/Python
 
@@ -91,7 +93,7 @@ APAC Test 理论上用什么都可以，请测试
 * [九章算法-面经](http://www.jiuzhang.com/interview/)
 * [米群网](http://www.meetqun.com/forum-36-1.html)
 
-# 
+# FIN
 ~ Center
 祝大家顺利拿到 Google offer
 ~
