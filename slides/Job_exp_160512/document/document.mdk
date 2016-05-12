@@ -41,9 +41,12 @@ especially for **Google**
 [https://code.google.com/codejam/apactest/contests.html](https://code.google.com/codejam/apactest/contests.html)
 
 # Notice the difference
-![Screen Shot 2016-05-12 at 3.51.21 PM]
+~ Center
+![diff]
+~
 
-[Screen Shot 2016-05-12 at 3.51.21 PM]: images/Screen-Shot-2016-05-12-at-3.51.21-PM.png "Screen Shot 2016-05-12 at 3.51.21 PM" { width:auto; max-width:90% }
+
+[diff]: images/Screen-Shot-2016-05-12-at-3.51.21-PM.png "Screen Shot 2016-05-12 at 3.51.21 PM" { height: 500px }
 
 # Phone nterview 
 * 不要作弊
